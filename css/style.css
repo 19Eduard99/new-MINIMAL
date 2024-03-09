@@ -592,7 +592,7 @@ html {
     position: absolute;
     top: 2px;
     left: -20px;
-    background-image: url("../img/Facebook.svg");
+    background-image: url("../img/facebook.svg");
     width: 14px;
     height: 14px;
 }
@@ -603,7 +603,7 @@ html {
     position: absolute;
     top: 2px;
     left: -20px;
-    background-image: url("../img/Twitter.svg");
+    background-image: url("../img/twitter.svg");
     width: 14px;
     height: 14px;
 }
@@ -613,7 +613,7 @@ html {
     position: absolute;
     top: 1px;
     left: -20px;
-    background-image: url("../img/LinkedIn.svg");
+    background-image: url("../img/linkedIn.svg");
     width: 14px;
     height: 14px;
 }
